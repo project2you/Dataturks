@@ -2,7 +2,7 @@
 
 ## pip install requests
 ## pip install pillow
-# config and edit dataturks_to_PascalVOC.py
+## config and edit dataturks_to_PascalVOC.py
 
 host_url = 'http://103.2xx.xx.xx'
 
