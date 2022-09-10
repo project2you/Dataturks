@@ -103,7 +103,7 @@ def convert_to_PascalVOC(dataturks_labeled_item, image_dir, xml_out_dir):
 
         width = data['annotation'][0]['imageWidth']
         height = data['annotation'][0]['imageHeight']
-        image_url = host_url + '+data['content']
+        image_url = host_url + data['content']
 
         filePath = maybe_download(image_url, image_dir)
 
