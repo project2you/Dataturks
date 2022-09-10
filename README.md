@@ -9,11 +9,11 @@ host_url = 'http://103.2xx.xx.xx'
 
 #Parameter 
 
-# python dataturks_to_PascalVOC.py [ file , folder  , folder ]
+#python dataturks_to_PascalVOC.py [ file , folder  , folder ]
 
-# python dataturks_to_PascalVOC.py <file.json> <folder_datasets> <path> 
+#python dataturks_to_PascalVOC.py <file.json> <folder_datasets> <path> 
 
-# Example 
+#Example 
 
 python dataturks_to_PascalVOC.py test.json datasets . 
 
